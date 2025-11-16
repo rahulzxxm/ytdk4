@@ -47,10 +47,10 @@ zipimg = "https://i.postimg.cc/C5T2SN20/photo-2025-04-02-18-19-12.jpg"
 
 watermark_text = "🅢🅐🅚🅢🅗🅐🅜™"
 credit =("🅢🅐🅚🅢🅗🅐🅜™") 
-OWNER = int(os.environ.get("OWNER",5435086550))
+OWNER = int(os.environ.get("OWNER",5881684718))
 try: 
-    ADMINS=[5435086550] 
-    for x in (os.environ.get("ADMINS", "5435086550").split()):  
+    ADMINS=[5881684718] 
+    for x in (os.environ.get("ADMINS", "5881684718").split()):  
         ADMINS.append(int(x)) 
 except ValueError: 
         raise Exception("Your Admins list does not contain valid integers.") 
