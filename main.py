@@ -66,10 +66,10 @@ api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzkxOTMzNDE5NS
 token_cp ='eyJjb3Vyc2VJZCI6IjQ1NjY4NyIsInR1dG9ySWQiOm51bGwsIm9yZ0lkIjo0ODA2MTksImNhdGVnb3J5SWQiOm51bGx9r'
     
 # Define the owner's user ID
-OWNER_ID = 5435086550 # Replace with the actual owner's user ID
+OWNER_ID = 5881684718 # Replace with the actual owner's user ID
 
 # List of sudo users (initially empty or pre-populated)
-SUDO_USERS = [5435086550]
+SUDO_USERS = [5881684718]
 
 AUTH_CHANNEL = -1002422810226
 
